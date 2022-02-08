@@ -4,8 +4,7 @@ I have a master's degree in software engineering and have been a full-stack deve
 
 Skills: Blockchain / Smart Contact / solidity / REACT / Django / Laravel 
 
-- 🔭 I’m currently working on Blockchain/smart contract 
-- 🌱 I’m currently learning solana and rust
+- 🔭 I’m currently working on Blockchain/smart contract
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I love art. 
 
