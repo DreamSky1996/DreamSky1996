@@ -1,10 +1,3 @@
 ## Hi there 👋
 
-I have a master's degree in software engineering and have been a full-stack developer since 2015. As a big crypto enthusiast, I decided to fully focus on blockchain development. I already have big experience with Smart Contract and dApps creation where most of them were built using Ethereum(public or private network). I am a great team player and takes time understanding projects and delivering in them in the best way.
-
-Skills: Blockchain / Smart Contact / solidity / REACT / Django / Laravel 
-
-- 🔭 I’m currently working on Blockchain/smart contract
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love art. 
-
+I have been developing websites and web applications for all of my adult life. I also have extensive knowledge  of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. I have deep full-stack experience includes Node.js and Express, MongoDB as well as more traditional technologies like PHP, ASP.NET and MySQL and I'm familiar with Laravel and Django. I appreciate the importance of quality code as well as the need to meet scheduling demands.
